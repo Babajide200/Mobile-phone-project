@@ -1,6 +1,6 @@
 # Mobile-phone-project
 
-# Cleaned Mobile Phone Data (Main Sheet)
+# Cleaned Mobile Phone Data
 
 Detailed SQL process for cleaning the raw data
 Steps include text standardization, unit conversion, missing value handling, and duplicate removal
